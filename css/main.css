@@ -44,9 +44,9 @@
 
 .nav-link:hover {
     color: #3366BB !important;
-    font-weight: bold;
-    
+    font-weight: bold;  
 }
+
 .countdownContainer{
   position: relative;
   padding: 10px;
